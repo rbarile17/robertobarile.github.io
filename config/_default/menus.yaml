@@ -13,3 +13,6 @@ main:
   - name: Talks
     url: /#talks
     weight: 12
+  - name: Community Service
+    url: /#community_service
+    weight: 13

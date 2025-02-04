@@ -38,4 +38,9 @@ sections:
     design:
       view: article-grid
       columns: 1
+  - block: community_service
+    id: community_service
+    content:
+      title: 'Community Service'
+      subtitle: ''
 ---
