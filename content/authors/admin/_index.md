@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dott. Roberto Barile
+title: Roberto Barile
 
 # Name pronunciation (optional)
 name_pronunciation:
