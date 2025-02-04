@@ -28,16 +28,11 @@ sections:
     design:
       view: citation
       columns: 2
-  - block: collection
+  - block: talks
     id: talks
     content:
       title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
+      subtitle: ''
   - block: community_service
     id: community_service
     content:
